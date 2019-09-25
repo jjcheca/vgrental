@@ -1,0 +1,6 @@
+
+.settings/
+
+*.class
+
+target/classes/
